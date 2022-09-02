@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I graduated as a Mechanical Engineer before I began my career as a programmer. I started out as a self-taught developer until I got a scholarship into a professional training alx\_africa which is affiliated with "Holberton School of Computer Science". I would say, being a software engineer hasn't been easy, but through out the extent I have gone.I declare it has been worth the journey, because programs changes everything. The world is fast advancing to the path of technology
 
+Pleass Do Well To Hit The Follow Button. Gracias🥰
+
 * 🌍  I'm based in Lagos Nigeria
 * 🖥️  See my portfolio at [Github](http://www.github.com/oishbdh)
 * ✉️  You can contact me at [ikechukwuarinze614@gmail.com](mailto:ikechukwuarinze614@gmail.com)
