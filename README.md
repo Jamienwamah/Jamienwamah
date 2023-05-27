@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ikechukwu Nwamah
 ========================================================================================================================================
 
-I am a software engineer with Technical proficiency in certain programming languages and technologies. These programming languages and technologies have been successfully used and implemented in developing Websites and in API integration. The programming languages includes:
+I am a software engineer with Technical proficiency in certain programming languages and technologies. These programming languages and technologies have been successfully used and implemented in developing Websites and in API integration. 
+The programming languages includes: <br>
 Python, C, MySQL, HTML, CSS, Javascript
-While the technologies include:
-Framework: Django and Django Rest, React, Flask 
+While the technologies include: <br>
+Framework: Django and Django Rest, React, Flask <br>
 Tools: Pip, Version Control, Insomnia Rest Client, Jupyter Notebook, VSCode, Linux control commands, Npm, Nodejs, Docker 
 
 Above all these, I'm a problem solver, a tactical thinker, and have a great communication skill. I obtained a degree in Mechanical Engineering which acted as a great platform that helped me develop some of the soft skills I now possess.
