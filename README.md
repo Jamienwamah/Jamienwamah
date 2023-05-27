@@ -9,7 +9,7 @@ Tools: Pip, Version Control, Insomnia Rest Client, Jupyter Notebook, VSCode, Lin
 
 Above all these, I'm a problem solver, a tactical thinker, and have a great communication skill. I obtained a degree in Mechanical Engineering which acted as a great platform that helped me develop some of the soft skills I now possess.
 
-Pleass Do Well To Check Out My Repository. Gracias🥰
+Pleass Do Well To Check Out My Repositories. Gracias🥰
 
 * 🌍  I'm based in Lagos Nigeria
 * 🖥️  See my portfolio at [Github](http://www.github.com/oishbdh)
