@@ -2,12 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 I am a software engineer with Technical proficiency in certain programming languages and technologies. These programming languages and technologies have been successfully used and implemented in developing Websites and in API integration. <br>
-The programming languages includes: <br>
-Python, C, MySQL, HTML, CSS, Javascript <br>
-While the technologies include: <br>
-Framework: Django and Django Rest, React, Flask <br>
+The programming languages includes: 
+Python, C, MySQL, HTML, CSS, Javascript 
+While the technologies include: 
+Framework: Django and Django Rest, React, Flask 
 Tools: Pip, Version Control, Insomnia Rest Client, Jupyter Notebook, VSCode, Linux control commands, Npm, Nodejs, Docker 
-
+</br>
 Above all these, I'm a problem solver, a tactical thinker, and have a great communication skill. I obtained a degree in Mechanical Engineering which acted as a great platform that helped me develop some of the soft skills I now possess.
 
 Pleass Do Well To Check Out My Repositories. Gracias🥰
