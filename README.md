@@ -13,7 +13,7 @@ Above all these, I'm a problem solver, a tactical thinker, and have a great comm
 Pleass Do Well To Check Out My Repositories. Gracias🥰
 
 * 🌍  I'm based in Lagos Nigeria
-* 🖥️  See my portfolio at [Github](http://www.github.com/oishbdh)
+* 🖥️  See my portfolio at [Portfolio](https://ik-portfolio.vercel.app)
 * ✉️  You can contact me at [ikechukwuarinze614@gmail.com](mailto:ikechukwuarinze614@gmail.com)
 * 🧠  I'm learning Machine Learning Using Jupyter Notebook
 * 🤝  I'm open to collaborating on Any project of interest
