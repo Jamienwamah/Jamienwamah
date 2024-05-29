@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ikechukwu Nwamah
-=======================================================================================================================================
+=========================================================================================================================================
 
 I am a software engineer with Technical proficiency in certain programming languages and technologies. These programming languages and technologies have been successfully used and implemented in developing Websites and in API integration. <br>
 The programming languages includes:<br> 
